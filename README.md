@@ -39,7 +39,11 @@ speed of sound in the air at 20ºC (68ºF) = 343m/s
 
 ![image](https://user-images.githubusercontent.com/36288975/166430594-5adb4ca9-5a42-4781-a7e6-7236b3766a85.png)
 
+### circuit diagram:
+
 ![Screenshot 2024-03-07 111741](https://github.com/MavillaPranathi/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/118343610/ba38197e-ad11-4a48-9f73-4d316ad7a5b1)
+
+### schematic representation:
 
 ![Screenshot 2024-03-07 111834](https://github.com/MavillaPranathi/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/118343610/ea8174a0-1e9d-4972-9c9a-5e5a3c1c9ecd)
 
