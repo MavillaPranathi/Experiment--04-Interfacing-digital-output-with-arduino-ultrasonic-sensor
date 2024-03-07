@@ -112,8 +112,6 @@ void loop()
 
 ### Distance vs measurement table 
 
-![image](https://user-images.githubusercontent.com/36288975/190135379-52ebacd5-ccd5-460f-a4cd-4d0ad1d9b179.png)
-
 
 ![Screenshot 2024-03-07 112056](https://github.com/MavillaPranathi/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/118343610/7cab0fd5-19b5-4047-88d7-b2942f6788ea)
 
